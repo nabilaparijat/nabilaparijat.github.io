@@ -1,0 +1,31 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+## Peer-Reviewed Articles
+
+-   [Targeted Tick-Borne Disease Recognition: Assessing Risk for Improved Public Health](Publications/healthcare-12-00984.pdf)
+-   [Hunger in a Heating World: How the climate crisis is fuelling hunger in an already hungry world](Publications/ENG%20Climate%20Hunger%20BRIEF.pdf)
+-   [Food Wars Conflict, Hunger, and Globalization, 2023](Publications/bp-food-wars-241016-en.pdf)
+
+## Conference Presentations
+
+-   **ARNOVA 2025**
+
+    ![](images/clipboard-1109087399.jpeg)
+
+![Humbled and honored to be in a panel with this brilliant bunch of scholars](images/clipboard-2086003757.jpeg)
+
+-   **APPAM 2025**
+
+![](images/clipboard-1191169220.jpeg)
+
+![Excited to meet my fellow Bangladeshi scholars, excelling in nonprofit finance, public policy, and disaster management](images/clipboard-1501190607.jpeg)
+
+-   **ABFM 2025**
+
+![Where my dissertation took flight - presented a chapter from my dissertation at ABFM 2025](images/clipboard-3765768724.jpeg)
+
+![The academic journey is paved with hurdles, big or small, but such torments can seem sweet when shared with a loving and supportive presence.](images/clipboard-3169085099.jpeg)

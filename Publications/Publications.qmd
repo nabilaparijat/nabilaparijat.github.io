@@ -1,0 +1,23 @@
+---
+title: "Research"
+format: html
+editor: visual
+---
+
+## Peer-Reviewed Articles
+
+- [Targeted Tick-Borne Disease Recognition: Assessing Risk for Improved Public Health](Publications/healthcare-12-00984.pdf)
+- [Hunger in a Heating World: How the climate crisis is fuelling hunger in an already hungry world](Publications/ENG%20Climate%20Hunger%20BRIEF.pdf)
+- [Food Wars Conflict, Hunger, and Globalization, 2023](Publications/bp-food-wars-241016-en.pdf)
+
+## Conference Presentations
+
+- **ARNOVA 2025**  
+  ![](images/clipboard-1109087399.jpeg)
+
+- **APPAM 2025**  
+  ![](images/clipboard-1191169220.jpeg)
+
+- **ABFM 2025**  
+  ![](images/clipboard-3169085099.jpeg)
+  
