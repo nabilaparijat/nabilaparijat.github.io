@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  title: "Nabila Parijat"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Publicatons and Conference Presentations"
+        href: Publications.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
+site-url: "https://nabilaparijat.com"
+
+files:
+  - google72b7c8d8d7b49740.html
